@@ -1,0 +1,10 @@
+webpackJsonp([1],{
+
+/***/ 242:
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("/**\r\n * Created by Ryn on 2016/8/15.\r\n * About组件\r\n */\n\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = __webpack_require__(1);\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar About = _react2.default.createClass({\n    displayName: \"About\",\n    render: function render() {\n        return _react2.default.createElement(\n            \"div\",\n            { className: \"about\" },\n            _react2.default.createElement(\n                \"h1\",\n                null,\n                \"About\"\n            )\n        );\n    }\n});\n\nexports.default = About;//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0Fib3V0LmpzPzcyYjgiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7QUFJQTs7Ozs7O0FBRUE7Ozs7OztBQUVBLElBQU0sUUFBUSxnQkFBTSxXQUFOLENBQWtCO0FBQUE7QUFDNUIsVUFENEIsb0JBQ25CO0FBQ0wsZUFDSTtBQUFBO0FBQUEsY0FBSyxXQUFVLE9BQWY7QUFDSTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBREosU0FESjtBQUtIO0FBUDJCLENBQWxCLENBQWQ7O2tCQVVlLEsiLCJmaWxlIjoiMjQyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXHJcbiAqIENyZWF0ZWQgYnkgUnluIG9uIDIwMTYvOC8xNS5cclxuICogQWJvdXTnu4Tku7ZcclxuICovXHJcblwidXNlIHN0cmljdFwiO1xyXG5cclxuaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcclxuXHJcbmNvbnN0IEFib3V0ID0gUmVhY3QuY3JlYXRlQ2xhc3Moe1xyXG4gICAgcmVuZGVyKCkge1xyXG4gICAgICAgIHJldHVybiAoXHJcbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYWJvdXRcIj5cclxuICAgICAgICAgICAgICAgIDxoMT5BYm91dDwvaDE+XHJcbiAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICk7XHJcbiAgICB9XHJcbn0pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgQWJvdXQ7XG5cblxuLyoqIFdFQlBBQ0sgRk9PVEVSICoqXG4gKiogLi9jb21wb25lbnRzL0Fib3V0LmpzXG4gKiovIl0sInNvdXJjZVJvb3QiOiIifQ==");
+
+/***/ }
+
+});
